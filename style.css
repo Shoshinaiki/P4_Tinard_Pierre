@@ -681,7 +681,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -828,6 +828,11 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
 }
+
+.lien {
+    margin-top: 2px;
+} 
+
 
 @media (max-width: 1024px) {
     .bloc {
