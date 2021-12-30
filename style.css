@@ -48,7 +48,7 @@ body {
     display: flex;
     justify-items: center;
     margin-top: 22px;
-    color: #F3976C!important;
+    color: #3333!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -725,6 +725,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    color: #3333;
 }
 
 .hero-bloc-text-sub {
@@ -840,7 +841,7 @@ h4 {
 }
 
 .tc-white {
-    color: #000!important;
+    color: #FFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -854,7 +855,12 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: white!important;
+}
+
+.biere:hover {
+    background-color: gray !important;
+    color: white !important;
 }
 
 .ltc-white:hover {
