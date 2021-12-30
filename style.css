@@ -789,7 +789,7 @@ h3 {
 }
 
 h1 {
-    color: #0000!important;
+    color: #020107!important;
 }
 
 h4 {
@@ -802,7 +802,15 @@ h4 {
 }
 
 .white {
-    color: #eeeef3!important;
+    color: white!important;
+}
+
+.black {
+    color: #020107!important;
+}
+
+.tc-color {
+    color: #ffffff!important;
 }
 
 .portfolio-thumb {
@@ -841,7 +849,11 @@ h4 {
 }
 
 .tc-white {
-    color: #FFF!important;
+    color: white!important;
+}
+
+.tc-black {
+    color: #020107!important;
 }
 
 .btn-atomic-tangerine {
