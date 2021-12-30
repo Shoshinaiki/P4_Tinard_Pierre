@@ -37,7 +37,7 @@ body {
 }
 
 .text-center  {
-    color: #3333;
+    color: #FFF;
 }
 
 .lien_accueil {
@@ -48,7 +48,7 @@ body {
     display: flex;
     justify-items: center;
     margin-top: 22px;
-    color: #3333!important;
+    color: #333!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -851,7 +851,7 @@ h4 {
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #3333!important;
 }
 
 .ltc-white {
